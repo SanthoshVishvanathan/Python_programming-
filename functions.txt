@@ -1,0 +1,6 @@
+Functions are callable methods that performs the defined or the assined implementations.
+Within the functions,parameters exists and arguments are then passed onto those parameters
+def add(a,b):
+  return a+b
+add(27+16)
+   

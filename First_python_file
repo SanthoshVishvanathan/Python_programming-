@@ -1,3 +1,4 @@
 What makes python a high level,general purpose language?
 back in those days,when there are langauges interacts directly with the hardware made a need for a new high level language where in python the code is been complied into a machine code and then interpreted
-Python isnt been designed for a single purpose /application .This makes it a language as a general purpose one
+Python wasnt designed for a single purpose /application .This makes it a language as a general purpose one
+Python is dynammically what i mean here is that coder need to define the datatype while typing the code 
